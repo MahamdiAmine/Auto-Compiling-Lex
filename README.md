@@ -1,4 +1,4 @@
-# Auto-Compling-Lex
+# Auto-Compiling-Lex
 
 auto compile and execute *.lex files.
 
